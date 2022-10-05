@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>649364574565-6mpktgkna9bfi7dnlslpkv83rnn8s6bf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.649364574565-6mpktgkna9bfi7dnlslpkv83rnn8s6bf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>649364574565-magq2t2a5kcnn39vh7b1mb22f2cqq5es.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCTtjUHVY9lUrp-g0GycqGGkTxha47PpkU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>649364574565</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.asquare.ecommercegym</string>
+	<key>PROJECT_ID</key>
+	<string>a-square-gym</string>
+	<key>STORAGE_BUCKET</key>
+	<string>a-square-gym.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:649364574565:ios:7e68b6b09a11c25f31118c</string>
+	<key>DATABASE_URL</key>
+	<string>https://a-square-gym-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
